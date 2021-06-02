@@ -1,4 +1,4 @@
-I am interested in AI/ML, and I have recently started looking into Compilers. I am quite comfortable with (mostly non-templated) C++ and Python, and curious about Rust, Systems Programming, and Javscript.
+I am interested in AI/ML, and I have recently started looking into Compilers. I am quite comfortable with C++ and Python, and curious about Rust, Systems Programming, and Javscript.
 
 <!---
 hasref/hasref is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
