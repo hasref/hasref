@@ -1,4 +1,4 @@
-I am interested in all things Computer Science, and I have recently started looking into Compilers. I am quite comfortable with C++, Python and JavaScript, and curious about Rust, and Systems Programming.
+Interested in all things Computer Science, and have recently started looking into Compilers. Quite comfortable with C++, Python and JavaScript, and curious about Rust, and Systems Programming.
 
 <!---
 hasref/hasref is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
